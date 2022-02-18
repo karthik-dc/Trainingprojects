@@ -1,0 +1,7 @@
+C:\Users\adminvm.adminvm\source\repos\bank2\bank2\bin\Debug\bank2.exe.config
+C:\Users\adminvm.adminvm\source\repos\bank2\bank2\bin\Debug\bank2.exe
+C:\Users\adminvm.adminvm\source\repos\bank2\bank2\bin\Debug\bank2.pdb
+C:\Users\adminvm.adminvm\source\repos\bank2\bank2\obj\Debug\bank2.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\bank2\bank2\obj\Debug\bank2.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\bank2\bank2\obj\Debug\bank2.exe
+C:\Users\adminvm.adminvm\source\repos\bank2\bank2\obj\Debug\bank2.pdb
